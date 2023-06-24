@@ -1,0 +1,39 @@
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../imges/Adventure\ editing\ background\ _\ Jungle\ editing\ backgrounds.jpeg");
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  
+  background-color: rgb(166, 228, 207);
+  
+  backdrop-filter: blur(10px);
+  height: 100vh;
+}
+
+.register-form {
+  border: 1px solid rgb(16, 13, 13);
+  padding: 30px;
+  color: #333333;
+  font-size: 18px;
+}
+
+.form-container1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../imges/peakpx.jpg");
+  background-color: rgb(166, 228, 207);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  background-position: center;
+  backdrop-filter: blur(10px);
+  height: 100vh;
+}
+
+
+
