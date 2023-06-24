@@ -1,5 +1,6 @@
 # Pokemon_Hyathi_task
 use of mern stack
+
 #To run this code use
 npm run dev 
 because i used nodemon and run both frontend and backend code concurently at same time
