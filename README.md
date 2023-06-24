@@ -13,6 +13,7 @@ we make folder name "client" for the frontend part of the project.
  Page.
 * Login andd Lougout pages are privateRouted.
 * Using Adoptation form of use can add the adoption requirement of Pokemon into our database.
+* In header there we show the user name on left of it by fetching through Database.
 
 
 B. BACKEND.
